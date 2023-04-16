@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1618806514 source:c:\users\14128\desktop\大二下课程\并行\hw\simd\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<malloc.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+
